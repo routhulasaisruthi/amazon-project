@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-01-19T10:40:52 IST" name="Default suite" finished-at="2024-01-19T10:42:44 IST" duration-ms="111499">
+    <groups>
+    </groups>
+    <test started-at="2024-01-19T10:40:52 IST" name="Default test" finished-at="2024-01-19T10:42:44 IST" duration-ms="111499">
+      <class name="testCase.Testcase001">
+        <test-method is-config="true" signature="setup()[pri:0, instance:testCase.Testcase001@1b11171f]" started-at="2024-01-19T10:40:52 IST" name="setup" finished-at="2024-01-19T10:41:13 IST" duration-ms="20930" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="loginfunctionality()[pri:0, instance:testCase.Testcase001@1b11171f]" started-at="2024-01-19T10:41:13 IST" name="loginfunctionality" finished-at="2024-01-19T10:41:22 IST" duration-ms="8489" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginfunctionality -->
+        <test-method signature="searchfunctionality()[pri:1, instance:testCase.Testcase001@1b11171f]" started-at="2024-01-19T10:41:22 IST" name="searchfunctionality" finished-at="2024-01-19T10:42:10 IST" duration-ms="48350" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchfunctionality -->
+        <test-method signature="searchproduct()[pri:2, instance:testCase.Testcase001@1b11171f]" started-at="2024-01-19T10:42:10 IST" name="searchproduct" finished-at="2024-01-19T10:42:41 IST" duration-ms="31095" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchproduct -->
+        <test-method signature="thirdproduct()[pri:3, instance:testCase.Testcase001@1b11171f]" started-at="2024-01-19T10:42:41 IST" name="thirdproduct" finished-at="2024-01-19T10:42:43 IST" duration-ms="1090" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- thirdproduct -->
+        <test-method is-config="true" signature="close()[pri:0, instance:testCase.Testcase001@1b11171f]" started-at="2024-01-19T10:42:43 IST" name="close" finished-at="2024-01-19T10:42:44 IST" duration-ms="1436" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+      </class> <!-- testCase.Testcase001 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
